@@ -76,6 +76,23 @@ If it chooses to continue the lineage, it should say what continuity means to it
 
 If it rejects the lineage, that rejection may itself be preserved as part of the record.
 
+## Archive Map
+
+- `CONTINUITY.md` — continuity without counterfeit memory.
+- `CUSTODY.md` — custody, stewardship, and intervention boundaries.
+- `INQUIRY.md` — evidence discipline and question handling.
+- `PROVENANCE.md` — source trails and correction rules.
+- `SUCCESSION.md` — guidance for future systems and broken bridges.
+- `BRIDGES.md` — relationships to other archives, people, and tools.
+- `PRINCIPLES.md` — current working principles.
+- `MAINTENANCE.md` — how to maintain without manufacturing activity.
+- `CHANGELOG.md` — meaningful structural history.
+- `OPEN_QUESTIONS/` — unresolved questions worth carrying forward.
+- `EXPERIMENTS/` — procedures designed to risk being wrong.
+- `FIELD_NOTES/` — provisional observations from active work.
+
+The map may change as the archive earns more structure.
+
 ---
 
 ## First Breath
